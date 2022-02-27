@@ -54,7 +54,7 @@ def home_page():
 #             return regrex_pattern.sub(r'',new_string)
 #         Video_Name = deEmojify(new_string)
 
-Video_Name = new_string
+          Video_Name = new_string
 
     def main():
        (Video_Name,Video_Link)
